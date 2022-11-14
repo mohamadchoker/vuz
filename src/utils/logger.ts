@@ -31,7 +31,7 @@ const logger = winston.createLogger({
       level: 'error',
       handleExceptions: true,
       handleRejections: true,
-      
+      json: true,
     }),
     new winstonDaily({
       level: 'debug',
