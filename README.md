@@ -19,6 +19,9 @@
 * user email : user@mail.com  / pass: 12345678
 
 
+# Testing
+npm run test
+
 # postman collection 
 
 import vuz.postman_collection.json to postman
