@@ -13,7 +13,6 @@
 
 # Usage
 
-* npm run dev
 
 * admin email : admin@mail.com  / pass: 12345678
 * user email : user@mail.com  / pass: 12345678
