@@ -9,7 +9,7 @@ export class CarRepository {
 
     if (lat && lng && isPrivate) {
       where[Op.and] = Sequelize.where(
-        Sequelize.fn('ST_Distance', Sequelize.col('location'), Sequelize.fn('ST_PointFromText', `POINT(${lat} ${lng})`, 0)),
+        Sequelize.fn('ST_Distance_Sphere', Sequelize.col('location'), Sequelize.fn('ST_PointFromText', `POINT(${lat} ${lng})`, 0)),
         '<',
         10000,
       );
