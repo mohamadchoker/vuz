@@ -1,0 +1,1227 @@
+2022-11-16 13:33:00 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:33:01 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:33:24 error: [POST] /login >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 13:33:50 error: [POST] /login >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 13:33:51 error: [POST] /login >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 13:34:13 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:14 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:14 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:14 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:15 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:15 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:18 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:25 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:44 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:45 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:34:50 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:35:00 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:35:15 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:35:15 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:35:55 error: [PUT] /admin/cars/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-16 13:36:28 error: [PUT] /admin/cars/2 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:36:29 error: [PUT] /admin/cars/2 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:36:41 error: [PUT] /admin/cars/2 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:03 error: [PUT] /admin/cars/2 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:03 error: [PUT] /admin/cars/2 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:36 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:37 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:37 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:56 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:57 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:37:57 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:38:07 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:39:05 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:39:40 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:40:12 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:40:12 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:40:13 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:40:28 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Cannot read property 'role' of undefined
+2022-11-16 13:40:29 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Cannot read property 'role' of undefined
+2022-11-16 13:40:36 error: IsCategoryAlreadyExistConstraint WHERE parameter "id" has invalid "undefined" value
+2022-11-16 13:40:36 error: [POST] /admin/cars >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 13:41:55 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:41:56 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:41:56 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:08 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:09 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:09 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:09 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:12 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:17 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:18 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:18 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:19 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:42:19 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:43:59 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:43:59 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:00 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:01 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:01 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:01 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:02 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:02 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:07 error: [POST] /admin/tags >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:10 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:18 error: [GET] /private/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:19 error: [GET] /private/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:44:24 error: [POST] /admin/cars >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 13:45:17 error: [POST] /admin/cars >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 13:45:18 error: [POST] /admin/cars >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 13:45:25 error: IsCategoryAlreadyExistConstraint WHERE parameter "id" has invalid "undefined" value
+2022-11-16 13:45:25 error: [POST] /admin/cars >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 13:45:31 error: [PUT] /admin/cars/1 >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 13:45:54 error: [PUT] /admin/cars/1 >> StatusCode:: 500, Message:: Cannot read property 'setTags' of null
+2022-11-16 13:45:55 error: [PUT] /admin/cars/1 >> StatusCode:: 500, Message:: Cannot read property 'setTags' of null
+2022-11-16 13:45:56 error: [PUT] /admin/cars/1 >> StatusCode:: 500, Message:: Cannot read property 'setTags' of null
+2022-11-16 13:46:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/cars.service.ts[0m:[93m46[0m:[93m11[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.
+
+[7m46[0m         { , transaction: t },
+[7m  [0m [91m          ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/cars.service.ts[0m:[93m46[0m:[93m11[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.
+
+[7m46[0m         { , transaction: t },
+[7m  [0m [91m          ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 13:47:13 error: [PUT] /admin/cars/1 >> StatusCode:: 500, Message:: Car with id 1 not found
+2022-11-16 13:47:14 error: [PUT] /admin/cars/1 >> StatusCode:: 500, Message:: Car with id 1 not found
+2022-11-16 13:49:02 error: [PUT] /admin/cars/4 >> StatusCode:: 500, Message:: Car with id 4 not found
+2022-11-16 13:49:55 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m25[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m25[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 13:49:59 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m23[0m:[93m19[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m23[0m       const await this.carsService.update(carId, carData);
+[7m  [0m [91m                  ~~~~[0m
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m25[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m23[0m:[93m19[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m23[0m       const await this.carsService.update(carId, carData);
+[7m  [0m [91m                  ~~~~[0m
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m25[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 13:50:06 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m25[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m25[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 13:50:10 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m26[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m26[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/cars.controller.ts[0m:[93m26[0m:[93m36[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m26[0m       res.status(200).json({ data: });
+[7m  [0m [91m                                   ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 13:52:04 error: [GET] /admin/cars/41 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 13:52:18 error: [GET] /admin/cars/412 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 13:52:35 error: [GET] /admin/cars/412 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 13:59:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/cars.service.ts[0m:[93m63[0m:[93m30[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.
+
+[7m63[0m       await findCar.destroy({, transaction: t });
+[7m  [0m [91m                             ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/cars.service.ts[0m:[93m63[0m:[93m30[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.
+
+[7m63[0m       await findCar.destroy({, transaction: t });
+[7m  [0m [91m                             ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 14:02:01 error: [DELETE] /admin/cars/411 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 14:02:11 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Cannot read property 'destroy' of null
+2022-11-16 14:02:24 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Car with id 411 not found
+2022-11-16 14:02:25 error: [DELETE] /admin/cars/41 >> StatusCode:: 500, Message:: Cannot delete or update a parent row: a foreign key constraint fails (`vuz`.`car_tags`, CONSTRAINT `fk_cartags_cars_car_id` FOREIGN KEY (`car_id`) REFERENCES `cars` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+2022-11-16 15:40:23 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:40:25 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:40:37 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:40:38 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:44:04 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:44:04 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:44:08 error: [DELETE] /admin/cars/411 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 15:44:12 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:44:12 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:45:06 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:45:07 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:45:07 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:45:08 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:45:20 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:45:21 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:45:32 error: [DELETE] /admin/cars/411 >> StatusCode:: 500, Message:: Car with id 411 not found
+2022-11-16 15:48:42 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m15[0m:[93m12[0m - [91merror[0m[90m TS1389: [0m'this' is not allowed as a variable declaration name.
+
+[7m15[0m     const  this.categories.update(categoryData, { where: { id: categoryId } });
+[7m  [0m [91m           ~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m15[0m:[93m12[0m - [91merror[0m[90m TS1389: [0m'this' is not allowed as a variable declaration name.
+
+[7m15[0m     const  this.categories.update(categoryData, { where: { id: categoryId } });
+[7m  [0m [91m           ~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 15:53:18 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:53:19 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 15:53:33 error: [PUT] /admin/cars/41 >> StatusCode:: 500, Message:: Car with id 41 not found
+2022-11-16 15:58:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m15[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m15[0m     await findCategory.update(categoryData, { where: { id: categoryId } });
+[7m  [0m [91m    ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m15[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m15[0m     await findCategory.update(categoryData, { where: { id: categoryId } });
+[7m  [0m [91m    ~~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 15:59:27 error: [PUT] /admin/cars/41 >> StatusCode:: 500, Message:: Car with id 41 not found
+2022-11-16 16:00:39 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:40 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:40 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:41 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:41 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:41 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:42 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:42 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:43 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:43 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:43 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:44 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:44 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:00:45 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:01:14 error: [PUT] /admin/cars/4111 >> StatusCode:: 500, Message:: Car not found
+2022-11-16 16:01:47 error: [PUT] /admin/cars/4111 >> StatusCode:: 404, Message:: Car not found
+2022-11-16 16:02:59 error: [GET] /admin/cars/412 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 16:03:02 error: [GET] /admin/cars/4123 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 16:03:11 error: [GET] /admin/cars/4123 >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 16:03:20 error: [GET] /admin/cars/4123 >> StatusCode:: 404, Message:: Car not found
+2022-11-16 16:04:14 error: [DELETE] /admin/cars/4122 >> StatusCode:: 404, Message:: Car not found
+2022-11-16 16:06:02 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m     *
+[7m  [0m [91m    ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m25[0m     *
+[7m  [0m [91m    ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:06:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m6[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.
+
+[7m25[0m     '
+[7m  [0m [91m     [0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m6[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.
+
+[7m25[0m     '
+[7m  [0m [91m     [0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:06:21 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m8[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.
+
+[7m25[0m     '*/
+[7m  [0m [91m       [0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m8[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.
+
+[7m25[0m     '*/
+[7m  [0m [91m       [0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:06:22 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m8[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.
+
+[7m25[0m     '*/
+[7m  [0m [91m       [0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/admin.route.ts[0m:[93m25[0m:[93m8[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.
+
+[7m25[0m     '*/
+[7m  [0m [91m       [0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:07:51 error: [POST] /admin/categories >> StatusCode:: 500, Message:: Something went wrong
+2022-11-16 16:09:27 error: [PUT] /admin/categories/6 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 16:09:28 error: [PUT] /admin/categories/6 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 16:09:32 error: [PUT] /admin/categories/6 >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 16:10:28 error: [PUT] /admin/categories/61 >> StatusCode:: 404, Message:: Category not found
+2022-11-16 16:11:23 error: [GET] /admin/categories/6 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 16:17:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/errors/index.ts[0m:[93m3[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m3[0m export
+[7m [0m [91m~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/errors/index.ts[0m:[93m3[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m3[0m export
+[7m [0m [91m~~~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:19:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m'(' expected.
+
+[7m24[0m     await findCategory.destroy();
+[7m  [0m [91m    ~~~~~[0m
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     await findCategory.destroy();
+[7m  [0m [91m                                ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m'(' expected.
+
+[7m24[0m     await findCategory.destroy();
+[7m  [0m [91m    ~~~~~[0m
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     await findCategory.destroy();
+[7m  [0m [91m                                ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:19:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m23[0m     if ()
+[7m  [0m [91m        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m23[0m     if ()
+[7m  [0m [91m        ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:19:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     await category.destroy();
+[7m  [0m [91m    ~~~~~[0m
+
+  [96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m8[0m
+    [7m23[0m     if (category.hasCars
+    [7m  [0m [96m       ~[0m
+    The parser expected to find a ')' to match the '(' token here.
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     await category.destroy();
+[7m  [0m [91m    ~~~~~[0m
+
+  [96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m8[0m
+    [7m23[0m     if (category.hasCars
+    [7m  [0m [96m       ~[0m
+    The parser expected to find a ')' to match the '(' token here.
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:20:17 error: [DELETE] /admin/categories/611 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 16:20:18 error: [DELETE] /admin/categories/611 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 16:20:18 error: [DELETE] /admin/categories/611 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 16:20:34 error: [DELETE] /admin/categories/611 >> StatusCode:: 404, Message:: Category not found
+2022-11-16 16:20:35 error: [DELETE] /admin/categories/611 >> StatusCode:: 404, Message:: Category not found
+2022-11-16 16:20:39 error: [DELETE] /admin/categories/1 >> StatusCode:: 400, Message:: You cannot delete a category that has cars
+2022-11-16 16:21:00 error: [DELETE] /admin/categories/1 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:21:27 error: [DELETE] /admin/categories/6 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:21:30 error: [DELETE] /admin/categories/6 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:21:30 error: [DELETE] /admin/categories/6 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:21:48 error: [DELETE] /admin/categories/6 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:22:15 error: [DELETE] /admin/categories/6 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:22:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m34[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m23[0m     console.log(category.hasCars.);
+[7m  [0m [91m                                 ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m34[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m23[0m     console.log(category.hasCars.);
+[7m  [0m [91m                                 ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:23:05 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m23[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m23[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:48:09 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m32[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m23[0m     console.log(await category.;
+[7m  [0m [91m                               ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m32[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m23[0m     console.log(await category.;
+[7m  [0m [91m                               ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:48:32 error: [DELETE] /admin/categories/6 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:48:32 error: [DELETE] /admin/categories/6 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:48:44 error: [DELETE] /admin/categories/1 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:49:20 error: [DELETE] /admin/categories/1 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 16:51:12 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:06 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:06 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:07 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:07 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:08 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:08 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:09 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:09 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:26 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m23[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m23[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m23[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 16:52:48 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:52:49 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:53:02 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:53:02 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:53:03 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:54:32 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:54:33 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 16:54:33 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:03:42 error: [DELETE] /admin/categories/1 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 17:03:43 error: [DELETE] /admin/categories/1 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 17:03:56 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:04:17 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:04:23 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:04:23 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:04:24 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:04:24 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:04:24 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:04:25 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:04:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/categories.service.ts[0m:[93m24[0m:[93m41[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m24[0m     console.log(await category.hasCars();
+[7m  [0m [91m                                        ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:06:14 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:07:27 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:07:28 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:09:10 error: [DELETE] /admin/categories/1 >> StatusCode:: 500, Message:: WHERE parameter "id" has invalid "undefined" value
+2022-11-16 17:10:42 error: [DELETE] /admin/categories/1 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 17:10:43 error: [DELETE] /admin/categories/1 >> StatusCode:: 403, Message:: You cannot delete a category that has cars
+2022-11-16 17:15:17 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/tags.service.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m'(' expected.
+
+[7m14[0m   }
+[7m  [0m [91m  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/tags.service.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m'(' expected.
+
+[7m14[0m   }
+[7m  [0m [91m  ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:15:20 error: uncaughtException: Unexpected token ';'
+/Users/mohamadchoker/Documents/vuz/src/services/admin/tags.service.ts:13
+        const ;
+              ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/controllers/admin/tags.controller.ts:2:1)
+2022-11-16 17:15:25 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/tags.service.ts[0m:[93m15[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m'(' expected.
+
+[7m15[0m   }
+[7m  [0m [91m  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/tags.service.ts[0m:[93m15[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m'(' expected.
+
+[7m15[0m   }
+[7m  [0m [91m  ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:15:38 error: uncaughtException: Cannot find module '@/errors/.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/tags.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/tags.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+Error: Cannot find module '@/errors/.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/tags.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/tags.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/mohamadchoker/Documents/vuz/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/mohamadchoker/Documents/vuz/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/services/admin/tags.service.ts:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2022-11-16 17:16:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/tags.service.ts[0m:[93m26[0m:[93m46[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m26[0m     const tag: TagModel = await this.tags.fin);
+[7m  [0m [91m                                             ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admin/tags.service.ts[0m:[93m26[0m:[93m46[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m26[0m     const tag: TagModel = await this.tags.fin);
+[7m  [0m [91m                                             ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:18:48 error: [PUT] /admin/tags/222 >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 17:18:49 error: [PUT] /admin/tags/222 >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 17:19:08 error: [PUT] /admin/tags/222 >> StatusCode:: 404, Message:: Tag not found
+2022-11-16 17:21:21 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/tags.controller.ts[0m:[93m23[0m:[93m31[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m23[0m       const updatedTag: await this.tagsService.update(tagId, tagData);
+[7m  [0m [91m                              ~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/admin/tags.controller.ts[0m:[93m23[0m:[93m31[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m23[0m       const updatedTag: await this.tagsService.update(tagId, tagData);
+[7m  [0m [91m                              ~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:22:04 error: [GET] /admin/tags/1 >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 17:22:25 error: [GET] /admin/tags/1 >> StatusCode:: 403, Message:: Forbidden
+2022-11-16 17:24:03 error: [DELETE] /admin/tags/1111 >> StatusCode:: 404, Message:: Tag not found
+2022-11-16 17:24:04 error: [DELETE] /admin/tags/1111 >> StatusCode:: 404, Message:: Tag not found
+2022-11-16 17:38:35 error: uncaughtException: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+Error: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/mohamadchoker/Documents/vuz/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/mohamadchoker/Documents/vuz/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/errors/index.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2022-11-16 17:38:37 error: uncaughtException: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+Error: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/mohamadchoker/Documents/vuz/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/mohamadchoker/Documents/vuz/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/errors/index.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2022-11-16 17:38:49 error: uncaughtException: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+Error: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/mohamadchoker/Documents/vuz/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/mohamadchoker/Documents/vuz/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/errors/index.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2022-11-16 17:38:53 error: uncaughtException: Cannot find module './serNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+Error: Cannot find module './serNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/mohamadchoker/Documents/vuz/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/mohamadchoker/Documents/vuz/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/errors/index.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2022-11-16 17:38:55 error: uncaughtException: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+Error: Cannot find module './userNotFound.error'
+Require stack:
+- /Users/mohamadchoker/Documents/vuz/src/errors/index.ts
+- /Users/mohamadchoker/Documents/vuz/src/services/admin/cars.service.ts
+- /Users/mohamadchoker/Documents/vuz/src/controllers/admin/cars.controller.ts
+- /Users/mohamadchoker/Documents/vuz/src/routes/admin.route.ts
+- /Users/mohamadchoker/Documents/vuz/src/server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/mohamadchoker/Documents/vuz/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/mohamadchoker/Documents/vuz/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/errors/index.ts:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2022-11-16 17:39:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/users.dto.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m30[0m export
+[7m  [0m [91m~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/users.dto.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m30[0m export
+[7m  [0m [91m~~~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:39:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/users.dto.ts[0m:[93m30[0m:[93m14[0m - [91merror[0m[90m TS1005: [0m'{' expected.
+
+[7m30[0m export class
+[7m  [0m [91m            [0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/users.dto.ts[0m:[93m30[0m:[93m14[0m - [91merror[0m[90m TS1005: [0m'{' expected.
+
+[7m30[0m export class
+[7m  [0m [91m            [0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:39:42 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/users.dto.ts[0m:[93m30[0m:[93m25[0m - [91merror[0m[90m TS1005: [0m'{' expected.
+
+[7m30[0m export class UpdateUserS
+[7m  [0m [91m                        [0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/users.dto.ts[0m:[93m30[0m:[93m25[0m - [91merror[0m[90m TS1005: [0m'{' expected.
+
+[7m30[0m export class UpdateUserS
+[7m  [0m [91m                        [0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:39:53 error: uncaughtException: boolean is not defined
+ReferenceError: boolean is not defined
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/dtos/users.dto.ts:31:13)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/routes/auth.route.ts:3:1)
+2022-11-16 17:48:48 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m32[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m32[0m     const isPasswordMatching: boolean = await compare(userData.password, findUser.password);
+[7m  [0m [91m    ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m32[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m32[0m     const isPasswordMatching: boolean = await compare(userData.password, findUser.password);
+[7m  [0m [91m    ~~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:50:16 error: unhandledRejection
+2022-11-16 17:50:23 error: unhandledRejection
+2022-11-16 17:50:27 error: unhandledRejection
+2022-11-16 17:50:37 error: uncaughtException: Invalid left-hand side in assignment
+/Users/mohamadchoker/Documents/vuz/src/services/auth/auth.service.ts:31
+            throw new findUser.password = undefined;
+                  ^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid left-hand side in assignment
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/Users/mohamadchoker/Documents/vuz/src/controllers/auth/auth.controller.ts:4:1)
+2022-11-16 17:50:40 error: unhandledRejection
+2022-11-16 17:50:42 error: unhandledRejection
+2022-11-16 17:50:57 error: unhandledRejection
+2022-11-16 17:51:01 error: unhandledRejection
+2022-11-16 17:51:17 error: unhandledRejection
+2022-11-16 17:51:23 error: unhandledRejection
+2022-11-16 17:51:26 error: unhandledRejection
+2022-11-16 17:51:27 error: unhandledRejection
+2022-11-16 17:51:30 error: unhandledRejection
+2022-11-16 17:51:34 error: unhandledRejection
+2022-11-16 17:51:37 error: unhandledRejection
+2022-11-16 17:51:42 error: unhandledRejection
+2022-11-16 17:51:45 error: unhandledRejection
+2022-11-16 17:51:48 error: unhandledRejection
+2022-11-16 17:51:50 error: unhandledRejection
+2022-11-16 17:51:53 error: unhandledRejection
+2022-11-16 17:52:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m35[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m35[0m     if ()
+[7m  [0m [91m        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m35[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m35[0m     if ()
+[7m  [0m [91m        ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:52:03 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m35[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m35[0m     if ()
+[7m  [0m [91m        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m35[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m35[0m     if ()
+[7m  [0m [91m        ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:52:06 error: unhandledRejection
+2022-11-16 17:52:11 error: unhandledRejection
+2022-11-16 17:52:13 error: unhandledRejection
+2022-11-16 17:52:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m42[0m:[93m3[0m - [91merror[0m[90m TS1434: [0mUnexpected keyword or identifier.
+
+[7m42[0m   p createToken(user: User): TokenData {
+[7m  [0m [91m  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth/auth.service.ts[0m:[93m42[0m:[93m3[0m - [91merror[0m[90m TS1434: [0mUnexpected keyword or identifier.
+
+[7m42[0m   p createToken(user: User): TokenData {
+[7m  [0m [91m  ~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:52:22 error: unhandledRejection
+2022-11-16 17:52:52 error: unhandledRejection
+2022-11-16 17:53:47 error: unhandledRejection
+2022-11-16 17:54:03 error: unhandledRejection
+2022-11-16 17:54:06 error: unhandledRejection
+2022-11-16 17:54:10 error: unhandledRejection
+2022-11-16 17:54:15 error: unhandledRejection
+2022-11-16 17:54:18 error: unhandledRejection
+2022-11-16 17:54:24 error: unhandledRejection
+2022-11-16 17:54:28 error: unhandledRejection
+2022-11-16 17:54:30 error: unhandledRejection
+2022-11-16 17:54:36 error: unhandledRejection
+2022-11-16 17:54:42 error: unhandledRejection
+2022-11-16 17:54:44 error: unhandledRejection
+2022-11-16 17:54:47 error: unhandledRejection
+2022-11-16 17:54:54 error: unhandledRejection
+2022-11-16 17:54:57 error: unhandledRejection
+2022-11-16 17:55:02 error: unhandledRejection
+2022-11-16 17:55:06 error: unhandledRejection
+2022-11-16 17:55:33 error: unhandledRejection
+2022-11-16 17:57:26 error: unhandledRejection
+2022-11-16 17:58:02 error: unhandledRejection
+2022-11-16 17:58:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/cars.route.ts[0m:[93m19[0m:[93m81[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m19[0m     this.router.get(`${this.path}/private/cars`, authMiddleware, roleMiddleware this.carsController.list);
+[7m  [0m [91m                                                                                ~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/cars.route.ts[0m:[93m19[0m:[93m81[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m19[0m     this.router.get(`${this.path}/private/cars`, authMiddleware, roleMiddleware this.carsController.list);
+[7m  [0m [91m                                                                                ~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:58:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/cars.route.ts[0m:[93m19[0m:[93m89[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m19[0m     this.router.get(`${this.path}/private/cars`, authMiddleware, roleMiddleware('user') this.carsController.list);
+[7m  [0m [91m                                                                                        ~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/cars.route.ts[0m:[93m19[0m:[93m89[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m19[0m     this.router.get(`${this.path}/private/cars`, authMiddleware, roleMiddleware('user') this.carsController.list);
+[7m  [0m [91m                                                                                        ~~~~[0m
+
+    at createTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:859:12)
+    at reportTSError (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:863:19)
+    at /Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1379:34
+    at Object.compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1458:13)
+    at Module.m._compile (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1617:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/mohamadchoker/Documents/vuz/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+2022-11-16 17:58:39 error: unhandledRejection
+2022-11-16 17:58:50 error: unhandledRejection
+2022-11-16 17:58:53 error: unhandledRejection
+2022-11-16 18:01:22 error: unhandledRejection
+2022-11-16 18:01:42 error: unhandledRejection
+2022-11-16 18:01:47 error: unhandledRejection
+2022-11-16 18:03:01 error: [POST] /admin/users/123/status >> StatusCode:: 404, Message:: User not found
+2022-11-16 18:03:02 error: [POST] /admin/users/123/status >> StatusCode:: 404, Message:: User not found
+2022-11-16 18:06:20 error: [POST] /admin/users/49/status >> StatusCode:: 422, Message:: Validation failed
+2022-11-16 18:09:01 error: [POST] /login >> StatusCode:: 401, Message:: Sorry, your account is inactive
+2022-11-16 18:16:11 error: [GET] /private/cars >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 18:16:12 error: [GET] /private/cars >> StatusCode:: 403, Message:: Authentication token missing
+2022-11-16 18:16:15 error: [GET] /private/cars >> StatusCode:: 403, Message:: Forbidden
+2022-11-16 18:16:15 error: [GET] /private/cars >> StatusCode:: 403, Message:: Forbidden

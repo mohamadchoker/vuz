@@ -1,0 +1,16 @@
+2022-11-15 11:57:52 info: =================================
+2022-11-15 11:57:52 info: ======= ENV: development =======
+2022-11-15 11:57:52 info: App listening on the port 3000
+2022-11-15 11:57:52 info: =================================
+2022-11-15 11:57:58 info: ::1 - - [15/Nov/2022:09:57:58 +0000] "GET /public/cars?query=fast&category=suv&tags=fast,comfort&page=1 HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+2022-11-15 11:57:59 info: ::1 - - [15/Nov/2022:09:57:59 +0000] "GET /public/cars?query=fast&category=suv&tags=fast,comfort&page=1 HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+2022-11-15 11:58:00 info: ::1 - - [15/Nov/2022:09:58:00 +0000] "GET /public/cars?query=fast&category=suv&tags=fast,comfort&page=1 HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+2022-11-15 11:58:00 info: ::1 - - [15/Nov/2022:09:58:00 +0000] "GET /public/cars?query=fast&category=suv&tags=fast,comfort&page=1 HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+2022-11-15 11:58:10 info: ::1 - - [15/Nov/2022:09:58:10 +0000] "GET /public/cars HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+2022-11-15 11:58:11 info: ::1 - - [15/Nov/2022:09:58:11 +0000] "GET /public/cars HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+2022-11-15 11:58:11 info: ::1 - - [15/Nov/2022:09:58:11 +0000] "GET /public/cars HTTP/1.1" 200 86 "-" "PostmanRuntime/7.29.2"
+2022-11-15 11:59:00 info: =================================
+2022-11-15 11:59:00 info: ======= ENV: development =======
+2022-11-15 11:59:00 info: App listening on the port 3000
+2022-11-15 11:59:00 info: =================================
+2022-11-15 11:59:02 info: ::1 - - [15/Nov/2022:09:59:02 +0000] "GET /public/cars HTTP/1.1" 200 357 "-" "PostmanRuntime/7.29.2"

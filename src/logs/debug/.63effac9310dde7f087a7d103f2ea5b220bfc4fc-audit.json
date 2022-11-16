@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/mohamadchoker/Documents/vuz/src/logs/debug/.63effac9310dde7f087a7d103f2ea5b220bfc4fc-audit.json",
+    "files": [
+        {
+            "date": 1668459187043,
+            "name": "/Users/mohamadchoker/Documents/vuz/src/logs/debug/2022-11-14.log",
+            "hash": "0aefc87d82a3e2b4dad354cdcda28b2a86296e598117908b8e41a298d31b322c"
+        },
+        {
+            "date": 1668506271902,
+            "name": "/Users/mohamadchoker/Documents/vuz/src/logs/debug/2022-11-15.log",
+            "hash": "a13c9a552ffdd8f8a18ea972bcc28fbbde534d56f16df8ed4edefc027770a45f"
+        },
+        {
+            "date": 1668598246710,
+            "name": "/Users/mohamadchoker/Documents/vuz/src/logs/debug/2022-11-16.log",
+            "hash": "f70d63f967a5a23e824ad8fc509fe0300217e8ce7e5a4f674d693dc77256eb27"
+        }
+    ],
+    "hashType": "sha256"
+}

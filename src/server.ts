@@ -3,8 +3,7 @@ import AuthRoute from '@routes/auth.route';
 import validateEnv from '@utils/validateEnv';
 import AdminRoute from './routes/admin.route';
 import CarRoutes from './routes/cars.route';
-import process from 'process';
-import { logger } from '@utils/logger';
+import { logger } from './utils/logger';
 validateEnv();
 
 process.on('unhandledRejection', (reason, promise) => {
