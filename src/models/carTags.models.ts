@@ -18,6 +18,7 @@ export default function (sequelize: Sequelize): typeof CarTagsModel {
           model: 'cars',
           key: 'id',
         },
+        onDelete: 'CASCADE',
       },
       tag_id: {
         type: DataTypes.INTEGER,
@@ -26,6 +27,7 @@ export default function (sequelize: Sequelize): typeof CarTagsModel {
           model: 'tags',
           key: 'id',
         },
+        onDelete: 'CASCADE',
       },
     },
     {

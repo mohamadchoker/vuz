@@ -1,5 +1,5 @@
 import { CarRepository } from '@/repositories/cars.repository';
-import CarService from '@/services/cars.service';
+import CarService from '@/services/users/cars.service';
 import { NextFunction, Request, Response } from 'express';
 
 class CarsController {

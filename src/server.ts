@@ -9,6 +9,7 @@ validateEnv();
 
 process.on('unhandledRejection', (reason, promise) => {
   logger.error('unhandledRejection', promise, 'reason', reason);
+  console.log('unhandledRejection', promise, 'reason', reason);
 });
 process.on('uncaughtException', err => {
   logger.error('uncaughtError', err);

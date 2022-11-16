@@ -1,5 +1,5 @@
 import { IsEmailAlreadyExist } from '@/rules/EmailExist.rule';
-import { IsString, IsEmail, IsDefined } from 'class-validator';
+import { IsString, IsEmail, IsDefined, IsBoolean } from 'class-validator';
 
 export class CreateUserDto {
   @IsDefined({ message: 'Name is required' })
@@ -25,4 +25,10 @@ export class LoginUserDto {
   @IsDefined({ message: 'Password is required.' })
   @IsString()
   public password: string;
+}
+
+export class UpdateUserStatusDto {
+  @IsDefined({ message: 'Status is required' })
+  @IsBoolean({ message: 'Status should be boolean' })
+  public status: boolean;
 }

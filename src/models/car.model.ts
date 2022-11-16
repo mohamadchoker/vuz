@@ -21,6 +21,7 @@ export class CarModel extends Model<Car, CarCreationAttributes> implements Car {
 
   setTags!: Sequelize.HasManySetAssociationsMixin<CarTag, 'id'>;
   getTags!: Sequelize.HasManyGetAssociationsMixin<CarTag>;
+  removeTags!: Sequelize.HasManyRemoveAssociationsMixin<CarTag, 'id'>;
 }
 
 export default function (sequelize: Sequelize.Sequelize): typeof CarModel {
@@ -56,6 +57,8 @@ export default function (sequelize: Sequelize.Sequelize): typeof CarModel {
     },
     {
       sequelize,
+      // paranoid: true,
+      // deletedAt: 'deleted_at',
       tableName: 'cars',
       timestamps: true,
       indexes: [

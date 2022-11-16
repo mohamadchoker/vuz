@@ -1,7 +1,9 @@
-import { Sequelize, DataTypes, Model, Optional } from 'sequelize';
+import Sequelize, { DataTypes, Model, Optional } from 'sequelize';
 import { Category } from '@interfaces/category.interface';
+import { CarModel } from './car.model';
 
 export type CategoryCreationAttributes = Optional<Category, 'id'>;
+export type CarId = CarModel['category_id'];
 
 export class CategoryModel extends Model<Category, CategoryCreationAttributes> implements Category {
   public id: number;
@@ -9,9 +11,11 @@ export class CategoryModel extends Model<Category, CategoryCreationAttributes> i
 
   public readonly createdAt!: Date;
   public readonly updatedAt!: Date;
+
+  countCars!: Sequelize.HasManyCountAssociationsMixin;
 }
 
-export default function (sequelize: Sequelize): typeof CategoryModel {
+export default function (sequelize: Sequelize.Sequelize): typeof CategoryModel {
   CategoryModel.init(
     {
       id: {
